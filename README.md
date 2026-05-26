@@ -30,7 +30,6 @@ Sou um entusiasta de tecnologia e estou focado no desenvolvimento de aplicaçõe
 - PHP
 - Laravel
 - Banco de Dados
-- 
 ---
 
 ## 📫 Contato
